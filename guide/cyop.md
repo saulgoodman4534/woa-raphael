@@ -16,5 +16,7 @@
 | - Easy  | - Hard |
 | - Quick  |- Slower |
 |  -No partitioning needed |  -Manual partioning |
-| - Lack of customization  | - Customizable as fuck  |          
+| - Lack of customization  | - Customizable as fuck  |  
+| - Only 128GB Variant support | Customizable partition sizes |  
+
 

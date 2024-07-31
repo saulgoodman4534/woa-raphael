@@ -73,8 +73,11 @@ print
 ```cmd
 resizepart $
 ```
+> If parted is not letting you resize the partition, and showing help output, follow [this](/guide/parted.md)
+
 > Parted will now ask you for the end value.
 > You can choose the size you want, as long as it is lower than the value it provides to you. In this example we resize it to 32GB
+
 ```cmd
 End? [121GB]? 32GB
 ```

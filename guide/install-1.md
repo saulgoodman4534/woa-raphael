@@ -6,7 +6,7 @@
 
 ### Prerequisites
 - A brain (most important of all)
-- Latest version of MIUI installed
+- Android installed on your device
 - [TWRP](https://github.com/graphiks/woa-raphael/releases/download/raphael-partitioning/twrp.img)
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)

@@ -7,6 +7,7 @@
 ### Prerequisites
 - A brain (most important of all)
 - Android installed on your device
+- A computer running Windows 10 or higher
 - [TWRP](https://github.com/graphiks/woa-raphael/releases/download/raphael-partitioning/twrp.img)
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)

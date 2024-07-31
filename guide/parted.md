@@ -19,4 +19,4 @@ rm $
 ```cmd
 mkpart userdata ext4 xGB yGB
 ```
-yay congrats, you can now go back [here](/guide/install-1.md#checking-free-space) 
+yay congrats, you can now go back [here](/guide/install-1.md#Checking-free-space) 
